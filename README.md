@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **baelul/baelul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align=center> Hi! I'm Baelul.</h1>
+
+<p align=center> <sup> <em> (she / her / hers) </em> </sup> </p>
+
+<p align=center>4th year Computer Science Major.</p>
+<p align=center>Minors in both Integrated Design & Media and Game Engineering</p>
+<p align=center>Currently working on: Personal Portfolio!</p>
