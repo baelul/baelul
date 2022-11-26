@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 <p align=center> <sup> <em> (she / her / hers) </em> </sup> </p>
 
 <p align=center>4th year Computer Science Major.</p>
+
 <p align=center>Minors in both Integrated Design & Media and Game Engineering</p>
+
 <p align=center>Currently working on: Personal Portfolio!</p>
