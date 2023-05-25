@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <p align=center>Minors in both Integrated Design & Media and Game Engineering</p>
 
-<p align=center>Currently working on: Senior Design and Final Game Design Projects!</p>
+<p align=center>Currently working on: Personal Portfolio!</p>
