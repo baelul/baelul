@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <p align=center> <sup> <em> (she / her / hers) </em> </sup> </p>
 
-<p align=center>Aspiring Creative.</p>
+<p align=center>Aspiring Creative. Recent NYU Graduate.</p>
 
 <p align=center>Bachelor of Science in Computer Science, Minors in both Integrated Design & Media and Game Engineering</p>
 
 <p align=center>Currently working on: Personal Portfolio!</p>
+
+<p align=center>Check out my [Games Portfolio]([https://link-url-here.org](https://docs.google.com/document/d/19xpf5Sw27fS6zf6e35VsnQTQvdpxobF7OeaksrQTlyM/edit?usp=sharing)https://docs.google.com/document/d/19xpf5Sw27fS6zf6e35VsnQTQvdpxobF7OeaksrQTlyM/edit?usp=sharing) </p>
