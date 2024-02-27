@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p align=center> <sup> <em> (she / her / hers) </em> </sup> </p>
 
-<p align=center>4th year Computer Science Student.</p>
+<p align=center>Aspiring Creative.</p>
 
-<p align=center>Minors in both Integrated Design & Media and Game Engineering</p>
+<p align=center>Bachelor of Science in Computer Science, Minors in both Integrated Design & Media and Game Engineering</p>
 
 <p align=center>Currently working on: Personal Portfolio!</p>
