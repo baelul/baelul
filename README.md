@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <p align=center> <sup> <em> (she / her / hers) </em> </sup> </p>
 
-<p align=center>Aspiring Creative. Recent NYU Graduate.</p>
-
-<p align=center>Bachelor of Science in Computer Science, Minors in both Integrated Design & Media and Game Engineering</p>
+<p align=center>Aspiring Creative. Software Engineer.</p>
+<p align=center>UMD 2026. NYU Alumna.</p>
+<p align=center>Working towards a Master's of Engineering in Cloud Engineering</p>
+<p align=center>Bachelor of Science in Computer Science, Minors in Integrated Design & Media and Game Engineering</p>
 
 <p align=center>Currently working on: Personal Portfolio!</p>
 
